@@ -1,4 +1,5 @@
 *** M7M CPU miner by Wolf0 ***
+*** contains personal changes : added all files , included worker invocation scripts ***
 
 License: GPLv2.  See COPYING for details.
 
